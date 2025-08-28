@@ -1,0 +1,14 @@
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\bin\Debug\net8.0\session6-sort-search.exe
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\bin\Debug\net8.0\session6-sort-search.deps.json
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\bin\Debug\net8.0\session6-sort-search.runtimeconfig.json
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\bin\Debug\net8.0\session6-sort-search.dll
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\bin\Debug\net8.0\session6-sort-search.pdb
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\session6-sort-search.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\session6-sort-search.AssemblyInfoInputs.cache
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\session6-sort-search.AssemblyInfo.cs
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\session6-sort-search.csproj.CoreCompileInputs.cache
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\session6-sort-search.dll
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\refint\session6-sort-search.dll
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\session6-sort-search.pdb
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\session6-sort-search.genruntimeconfig.cache
+D:\school\tafe\3-thursday-c#\session-6-sort-and-search\session6-sort-search\obj\Debug\net8.0\ref\session6-sort-search.dll

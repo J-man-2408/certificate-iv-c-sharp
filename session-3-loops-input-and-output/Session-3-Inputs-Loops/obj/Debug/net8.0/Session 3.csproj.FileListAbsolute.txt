@@ -1,0 +1,14 @@
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\Session 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\Session 3.AssemblyInfoInputs.cache
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\Session 3.AssemblyInfo.cs
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\Session 3.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\bin\Debug\net8.0\Session 3.exe
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\bin\Debug\net8.0\Session 3.deps.json
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\bin\Debug\net8.0\Session 3.runtimeconfig.json
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\bin\Debug\net8.0\Session 3.dll
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\bin\Debug\net8.0\Session 3.pdb
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\Session 3.dll
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\refint\Session 3.dll
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\Session 3.pdb
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\Session 3.genruntimeconfig.cache
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3. Thursday (c#)\C# Session 3\Session-3-Inputs-Loops\obj\Debug\net8.0\ref\Session 3.dll

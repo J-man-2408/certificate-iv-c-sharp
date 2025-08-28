@@ -1,0 +1,14 @@
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\bin\Debug\net8.0\session-4-exercises.exe
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\bin\Debug\net8.0\session-4-exercises.deps.json
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\bin\Debug\net8.0\session-4-exercises.runtimeconfig.json
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\bin\Debug\net8.0\session-4-exercises.dll
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\bin\Debug\net8.0\session-4-exercises.pdb
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\session-4-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\session-4-exercises.AssemblyInfoInputs.cache
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\session-4-exercises.AssemblyInfo.cs
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\session-4-exercises.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\session-4-exercises.dll
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\refint\session-4-exercises.dll
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\session-4-exercises.pdb
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\session-4-exercises.genruntimeconfig.cache
+C:\Users\Jasmine\Documents\SCHOOL\TAFE\3-thursday-c#\session-4\session-4-exercises\obj\Debug\net8.0\ref\session-4-exercises.dll
